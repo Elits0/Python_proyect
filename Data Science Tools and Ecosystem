@@ -1,0 +1,164 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "a4432b49-5aa5-4f4f-9577-25b392973150",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fba88fa7-485d-4bd6-93e7-6a01a5014463",
+   "metadata": {},
+   "source": [
+    "En este cuaderno, se resumen las herramientas y ecosistemas de ciencia de datos."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "4d83b3d6-0235-40ff-86f9-7ceb18b069ef",
+   "metadata": {},
+   "source": [
+    "Algunos de los lenguajes populares que utilizan los científicos de datos son:\n",
+    "\n",
+    "1. Python  \n",
+    "2. R  \n",
+    "3. SQL  \n",
+    "4. Java  \n",
+    "5. Julia"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "776c4373-b78a-4e1f-b22b-70d74000c650",
+   "metadata": {},
+   "source": [
+    "Algunas de las bibliotecas comúnmente utilizadas por los científicos de datos incluyen:\n",
+    "\n",
+    "1. Pandas  \n",
+    "2. NumPy  \n",
+    "3. Matplotlib  \n",
+    "4. Scikit-learn  \n",
+    "5. TensorFlow"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bdddfe4b-eaf0-442a-af2a-6cb2d06d5131",
+   "metadata": {},
+   "source": [
+    "| Herramientas de Ciencia de Datos |\n",
+    "|----------------------------------|\n",
+    "| Jupyter Notebook                 |\n",
+    "| RStudio                          |\n",
+    "| Apache Zeppelin                  |"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "16f1191c-a0f8-4405-8e85-4da2737dc0c3",
+   "metadata": {},
+   "source": [
+    "### A continuación, se presentan algunos ejemplos de evaluación de expresiones aritméticas en Python."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "f9935092-c367-4980-96bb-45b725226050",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 5,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Esta es una expresión aritmética simple para multiplicar y luego sumar enteros.\n",
+    "(3 * 4) + 5"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "0d3a5412-c8b2-403b-9023-55f86f6e6ad2",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# Esto convertirá 200 minutos a horas dividiendo por 60.\n",
+    "200 / 60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "01745094-c3a8-4848-b39b-8da0320a18ee",
+   "metadata": {},
+   "source": [
+    "**Objetivos:**\n",
+    "\n",
+    "- Listar lenguajes populares para Ciencia de Datos  \n",
+    "- Identificar bibliotecas comunes utilizadas en Ciencia de Datos  \n",
+    "- Reconocer herramientas de desarrollo de código abierto  \n",
+    "- Evaluar expresiones aritméticas simples en Python  \n",
+    "- Convertir unidades como minutos a horas usando Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ea369cf0-7981-4112-98b5-c5f1dfc4481c",
+   "metadata": {},
+   "source": [
+    "## Autor  \n",
+    "ELIAN"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "122b3bea-d6cd-470d-af2d-882737daa6f2",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
